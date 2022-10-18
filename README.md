@@ -1,0 +1,2 @@
+# MyJenkinsTests
+JenkinsAutomationTest
